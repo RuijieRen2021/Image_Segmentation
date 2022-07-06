@@ -1,2 +1,9 @@
 # Image_Segmentation
 基于OpenCV的grabCut图像分割和利用飞桨人像分割模型，以及背景替换的实验
+main.py运行主程序
+img_cut_window.py是ui界面程序
+Img_Segmentation文件是图像分割程序
+paddle_mask是飞桨模型分割的掩膜图像
+paddle_output是飞桨模型分割的结果图像
+grabcut_mask是grabcut分割的掩膜图像
+grabcut_output是grabcut分割的结果图像
