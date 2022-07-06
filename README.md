@@ -1,0 +1,2 @@
+# Image_Segmentation
+基于OpenCV的grabCut图像分割和利用飞桨人像分割模型，以及背景替换的实验
